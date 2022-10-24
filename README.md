@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java & Python 
 - 🌱 I’m currently learning Java and android developing 
 - 💞️ I’m looking to collaborate on nice agricoltural projects 
-- 📫 How to reach me giorgiobiologist@gmail.com
+- 📫 How to reach me giorgio.programmer@gmail.com
 
 <!---
 giorgioGTelian/giorgioGTelian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
