@@ -1,8 +1,15 @@
 - 👋 Hi, I’m @giorgioGTelian
-- 👀 I’m interested in Java & Python 
-- 🌱 I’m currently learning Java and android developing 
-- 💞️ I’m looking to collaborate on nice agricoltural projects 
+
+- 👀 I’m interested in Learning new and exciting stuff
+
+- 🌱 I’m currently learning Java and android developing!
+
+- 💞️ I’m looking to collaborate on geo-agricoltural projects
+ 
 - 📫 How to reach me giorgio.programmer@gmail.com
+
+- 📚 Here you will find all of my projects! 
+
 <details><summary>Heaven</summary>
 <p>
 
@@ -11,34 +18,12 @@
 </p>
 </details>
 
-<details><summary>where am i?</summary>
+<details><summary>Take a moment to relax</summary>
 <p>
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [-90,35],
-              [-90,30],
-              [-85,30],
-              [-85,35],
-              [-90,35]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
+
+![Sit back and relax](https://agrotecnica.altervista.org/wp-content/uploads/2018/07/6129654-rainy-day-images.gif)
+ 
+  
 </p>
 </details>
 <!---
