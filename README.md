@@ -10,7 +10,7 @@
 
 - 📚 Here you will find all of my projects! 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![GiorgioGTelian's GitHub stats](https://github-readme-stats.vercel.app/api?username=giorgioGTelian&show_icons=true&theme=radical)
 
 <details><summary>Heaven</summary>
 <p>
