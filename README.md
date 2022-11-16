@@ -2,13 +2,31 @@
 
 - 👀 I’m interested in Learning new and exciting stuff
 
-- 🌱 I’m currently learning Java and android developing!
+## 🔭 I'm currently working on
+
+- My old projects
+- GIS - Agricultural App (React-Native? - Java - Python)
+- Data Managing with Panda
+- My next blog
+- My CSS/HTML/JS skill
+
+## 🌱 I'm currently learning
+
+- 📱 React Native
+- Python Django
+- Angular
+- Java Spring   
 
 - 💞️ I’m looking to collaborate on geo-agricoltural projects
  
 - 📫 How to reach me giorgio.programmer@gmail.com
 
-- 📚 Here you will find all of my projects! 
+## 📚 Favourite IDE: 
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ![GiorgioGTelian's GitHub stats](https://github-readme-stats.vercel.app/api?username=giorgioGTelian&show_icons=true&theme=radical)
 
@@ -19,7 +37,7 @@
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
