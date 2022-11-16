@@ -2,16 +2,10 @@
   <a href="https://agrotecnica.altervista.org/" target="_blank" rel="noreferrer"><img src="https://agrotecnica.altervista.org/wp-content/uploads/2022/11/Screenshot-2022-11-16-214822.png" alt="my banner"></a>
 </p>
 
-
-
-- 👋 Hi, I’m @giorgioGTelian 
-
-- 👀 I’m interested in Learning new and exciting stuff
-
 ## 🔭 I'm currently working on
 
-- My old projects
-- GIS - Agricultural App (React-Native? - Java - Python)
+- 👋 My old projects
+- 👀 GIS - Agricultural App (React-Native? - Java - Python)
 - Data Managing with Panda
 - My next blog
 - My CSS/HTML/JS skill
@@ -40,14 +34,16 @@
 
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![REACT](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 <details><summary>Heaven</summary>
