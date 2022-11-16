@@ -32,7 +32,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgioGTelian&layout=compact)](https://github.com/giorgioGTelian/github-readme-stats)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=giorgioGTelian.giorgioGTelian)](https://agrotecnica.altervista.org/)
 
 ## 💼 Technical Skills
 
@@ -68,7 +67,7 @@ giorgioGTelian/giorgioGTelian is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-### 📫 Connect with me:
+### 📫✨ Connect with me:
 
 <a href="https://www.linkedin.com/in/giorgio-tassinari-518b28100/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/gio.tassen/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
