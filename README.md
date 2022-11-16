@@ -6,9 +6,9 @@
 
 - 👋 My old projects
 - 👀 GIS - Agricultural App (React-Native? - Java - Python)
-- Data Managing with Panda
-- My next blog
-- My CSS/HTML/JS skill
+- 💻 Data Managing with Panda
+- 🎨 My next blog
+- 📸 My CSS/HTML/JS skill
 
 ## 🌱 I'm currently learning
 
@@ -75,10 +75,3 @@ You can click the Preview link to take a look at your changes.
 </br>
 - 💬 If you have any question/feedback, please write to me: giorgio.programmer@gmail.com
 
-<h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
-</h3>
-
-<h2 align="center">
-I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
-</h2> 
