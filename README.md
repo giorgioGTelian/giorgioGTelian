@@ -32,6 +32,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgioGTelian&layout=compact)](https://github.com/giorgioGTelian/github-readme-stats)
 
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=giorgioGTelian.giorgioGTelian)](https://agrotecnica.altervista.org/)
+
 ## 💼 Technical Skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
