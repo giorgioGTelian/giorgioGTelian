@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @giorgioGTelian
+- 👋 Hi, I’m @giorgioGTelian 
 
 - 👀 I’m interested in Learning new and exciting stuff
 
