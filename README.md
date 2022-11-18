@@ -6,7 +6,7 @@
 
 - 👋 My old projects
 - 👀 GIS - Agricultural App (React-Native? - Java - Python)
-- 💻 Data Managing with Panda
+- 💻 Data Managing with Pandas
 - 🎨 My next blog
 - 📸 My CSS/HTML/JS skill
 
