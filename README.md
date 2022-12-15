@@ -32,7 +32,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgioGTelian&layout=compact)](https://github.com/giorgioGTelian/github-readme-stats)
 
-<codersrank-summary username="YOUR_USERNAME" layout="vertical"></codersrank-summary>
+<codersrank-summary username="giorgiogtelian" layout="vertical"></codersrank-summary>
 
 
 ## 💼 Technical Skills
