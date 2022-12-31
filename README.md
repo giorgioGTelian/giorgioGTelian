@@ -17,7 +17,7 @@
 - Angular
 - Java Spring   
 
-## 💞️ I’m looking to collaborate on geo-agricoltural projects
+## 💞️ I am always looking foward to meet new people and learn new skills
  
 ## 📚 Favourite IDE: 
 
