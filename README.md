@@ -36,7 +36,7 @@
 </a>
 
 
-<codersrank-summary username="giorgiogtelian" layout="vertical"></codersrank-summary>
+
 
 
 ## 💼 Technical Skills
@@ -68,8 +68,8 @@
   
 </p>
 </details>
-<!-- replace x.x.x with actual version -->
-<script src="https://unpkg.com/@codersrank/summary@x.x.x/codersrank-summary.min.js"></script>
+<!-- <codersrank-summary username="giorgiogtelian" layout="vertical"></codersrank-summary> -->
+
 <!---
 giorgioGTelian/giorgioGTelian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
