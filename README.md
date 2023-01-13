@@ -28,7 +28,7 @@
 
 ## 📈 GitHub Stats 
 
-![GiorgioGTelian's GitHub stats](https://github-readme-stats.vercel.app/api?username=giorgioGTelian&show_icons=true&theme=radical)
+![GiorgioGTelian's GitHub stats](https://github-readme-stats.vercel.app/api?username=giorgioGTelian&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgioGTelian&layout=compact)](https://github.com/giorgioGTelian/github-readme-stats)
 
