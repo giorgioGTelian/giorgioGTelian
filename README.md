@@ -5,16 +5,15 @@
 ## 🔭 I'm currently working on
 
 - 👋 My old projects
-- 👀 GIS - Agricultural App (React-Native? - Java - Python)
+- 👀 Java - Python
 - 💻 Data Managing with Pandas
-- 🎨 My next blog
 - 📸 My CSS/HTML/JS skill
 
 ## 🌱 I'm currently learning
 
 - 📱 React Native
 - Python Django
-- Angular
+- 🎨 Angular
 - Java Spring   
 
 ## 💞️ I am always looking foward to meet new people and learn new skills
