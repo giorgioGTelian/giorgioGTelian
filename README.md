@@ -35,11 +35,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=giorgioGTelian&show_icons=true&theme=dracula" />
 </a>
 
-![GiorgioGTelian's GitHub stats]()
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgioGTelian&layout=compact)]()
-
-[![Top Langs]()](https://github.com/anuraghazra/github-readme-stats)
 
 <codersrank-summary username="giorgiogtelian" layout="vertical"></codersrank-summary>
 
@@ -73,6 +68,8 @@
   
 </p>
 </details>
+<!-- replace x.x.x with actual version -->
+<script src="https://unpkg.com/@codersrank/summary@x.x.x/codersrank-summary.min.js"></script>
 <!---
 giorgioGTelian/giorgioGTelian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
