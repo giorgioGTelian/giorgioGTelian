@@ -30,7 +30,7 @@
 
 ![GiorgioGTelian's GitHub stats](https://github-readme-stats.vercel.app/api?username=giorgioGTelian&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgioGTelian&layout=compact)](https://github.com/giorgioGTelian/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgioGTelian&langs_count=9)](https://github.com/giorgioGTelian/github-readme-stats)
 
 <codersrank-summary username="giorgiogtelian" layout="vertical"></codersrank-summary>
 
