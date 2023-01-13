@@ -28,9 +28,18 @@
 
 ## 📈 GitHub Stats 
 
-![GiorgioGTelian's GitHub stats](https://github-readme-stats.vercel.app/api?username=giorgioGTelian&show_icons=true&theme=dracula)
+<a href="https://github.com/giorgioGTelian/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorgioGTelian&langs_count=6" />
+</a>
+<a href="https://github.com/giorgioGTelian/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=giorgioGTelian&show_icons=true&theme=dracula" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgioGTelian&layout=compact)](https://github.com/giorgioGTelian/github-readme-stats)
+![GiorgioGTelian's GitHub stats]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgioGTelian&layout=compact)]()
+
+[![Top Langs]()](https://github.com/anuraghazra/github-readme-stats)
 
 <codersrank-summary username="giorgiogtelian" layout="vertical"></codersrank-summary>
 
