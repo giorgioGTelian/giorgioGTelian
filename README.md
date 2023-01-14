@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://agrotecnica.altervista.org/" target="_blank" rel="noreferrer"><img src="https://agrotecnica.altervista.org/wp-content/uploads/2023/01/La-storia-del-giorno-1.gif" width="564" height="564" class="banner" ></a>
+  <a href="https://imgur.com/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/eHxAbsh.mp4" width="564" height="564" class="banner" ></a>
 </p>
 
 ## 🔭 I'm currently working on
@@ -56,14 +56,7 @@
 </p>
 </details>
 
-<details><summary>Take a moment to relax</summary>
-<p>
 
-![Sit back and relax](https://agrotecnica.altervista.org/wp-content/uploads/2018/07/6129654-rainy-day-images.gif)
- 
-  
-</p>
-</details>
 <!-- <codersrank-summary username="giorgiogtelian" layout="vertical"></codersrank-summary> -->
 
 <!---
