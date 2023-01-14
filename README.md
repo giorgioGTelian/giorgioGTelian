@@ -28,10 +28,10 @@
 ## 📈 GitHub Stats 
 
 <a href="https://github.com/giorgioGTelian/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorgioGTelian&langs_count=6" />
+  <img align="center" src="github-readme-stats2-orcin.vercel.app/api/top-langs/?username=giorgioGTelian&langs_count=6" />
 </a>
 <a href="https://github.com/giorgioGTelian/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=giorgioGTelian&show_icons=true&theme=dracula" />
+  <img align="center" src="github-readme-stats2-orcin.vercel.app/api?username=giorgioGTelian&show_icons=true&theme=dracula" />
 </a>
 
 
