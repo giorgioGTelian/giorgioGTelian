@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://agrotecnica.altervista.org/" target="_blank" rel="noreferrer"><img src="https://agrotecnica.altervista.org/wp-content/uploads/2023/01/La-storia-del-giorno-1.gif" alt="my banner"></a>
+  <a href="https://agrotecnica.altervista.org/" target="_blank" rel="noreferrer"><img src="https://agrotecnica.altervista.org/wp-content/uploads/2023/01/La-storia-del-giorno-1.gif" ></a>
 </p>
 
 ## 🔭 I'm currently working on
