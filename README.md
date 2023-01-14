@@ -48,11 +48,11 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-<details><summary>Heaven</summary>
+<details><summary>:zap: Recent Activity</summary>
 <p>
 
-![Sit back and relax](https://agrotecnica.altervista.org/wp-content/uploads/2022/03/Opera-darte-scaled.jpeg)
-
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 </p>
 </details>
 
