@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://imgur.com/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/eHxAbsh.mp4" width="564" height="564" class="banner" ></a>
+  <a href="https://imgur.com/a/VGwcBga" target="_blank" rel="noreferrer"><img src="https://imgur.com/eHxAbsh" width="564" height="564" class="banner" ></a>
 </p>
 
 ## 🔭 I'm currently working on
