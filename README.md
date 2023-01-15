@@ -72,3 +72,8 @@ You can click the Preview link to take a look at your changes.
 </br>
 - 💬 If you have any question/feedback, please write to me: giorgio.programmer@gmail.com <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="18px"> 
 
+<br>
+<p  align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=giorgioGTelian.giorgioGTelian" alt="visitor badge"/>
+</p>
+
