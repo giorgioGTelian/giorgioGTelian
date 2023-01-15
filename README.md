@@ -70,5 +70,5 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.instagram.com/gio.tassen/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 <a href="http://programmer.altervista.org/Web_Developer.html"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
 </br>
-- 💬 If you have any question/feedback, please write to me: giorgio.programmer@gmail.com
+- 💬 If you have any question/feedback, please write to me: giorgio.programmer@gmail.com <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="18px"> 
 
