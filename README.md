@@ -1,4 +1,6 @@
+<p align="center">
 <img align="center" alt="GIF" src="giphy.gif"/>
+ </p>
 
 ## 🔭 I'm currently working on
 
