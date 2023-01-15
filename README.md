@@ -1,15 +1,6 @@
 <p align="center">
-  <a href="https://agrotecnica.altervista.org/" target="_blank" rel="noreferrer"><img src="https://agrotecnica.altervista.org/wp-content/uploads/2023/01/La-storia-del-giorno-1.gif" width="564" height="564" class="banner" ></a>
+  <a href="https://agrotecnica.altervista.org/" target="_blank" rel="noreferrer"><img src="https://agrotecnica.altervista.org/wp-content/uploads/2023/01/giphy.gif" width="564" height="564" class="banner" ></a>
 </p>
-
-<a href="Your link here"><img src="Your image here.gif">
-<img src="https://media4.giphy.com/media/FwMiorAdeJQFKjLhov/giphy.gif" style="width: 100%; max-width: 100%; height: auto;">
-</a>
-<a href="Your link here"><img src="Your image here.gif">
-<img src="https://giphy.com/embed/jdODvMTCZ7CjGKSJms" style="width: 100%; max-width: 100%; height: auto;">
-</a>
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/jdODvMTCZ7CjGKSJms" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/jdODvMTCZ7CjGKSJms">via GIPHY</a></p>
-
 
 ## 🔭 I'm currently working on
 
