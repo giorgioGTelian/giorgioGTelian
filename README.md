@@ -3,7 +3,7 @@
 </p>
 
 <a href="Your link here"><img src="Your image here.gif">
-<img src="https://media4.giphy.com/media/jdODvMTCZ7CjGKSJms/giphy.gif?cid=790b76110c86380f9ecfb7778b5ee066cc619b5a490ec194&rid=giphy.gif&ct=g" style="width: 100%; max-width: 100%; height: auto;">
+<img src="https://media4.giphy.com/media/FwMiorAdeJQFKjLhov/giphy.gif" style="width: 100%; max-width: 100%; height: auto;">
 </a>
 <a href="Your link here"><img src="Your image here.gif">
 <img src="https://giphy.com/embed/jdODvMTCZ7CjGKSJms" style="width: 100%; max-width: 100%; height: auto;">
