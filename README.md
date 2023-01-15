@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://agrotecnica.altervista.org/" target="_blank" rel="noreferrer"><img src="https://agrotecnica.altervista.org/wp-content/uploads/2023/01/giphy2.gif"></a>
+  <img src="https://agrotecnica.altervista.org/wp-content/uploads/2023/01/giphy2.gif">
 </p>
 
 ## 🔭 I'm currently working on
