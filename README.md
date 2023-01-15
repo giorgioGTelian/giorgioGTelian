@@ -1,6 +1,4 @@
-
-  <img src="https://agrotecnica.altervista.org/wp-content/uploads/2023/01/giphy2.gif">
-
+<img align="center" alt="GIF" src="https://agrotecnica.altervista.org/wp-content/uploads/2023/01/giphy2.gif"/>
 
 ## 🔭 I'm currently working on
 
