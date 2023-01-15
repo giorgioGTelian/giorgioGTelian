@@ -3,10 +3,10 @@
 </p>
 
 <a href="Your link here"><img src="Your image here.gif">
-<img src="https://i.imgur.com/HoqRknK.mp4" style="width: 100%; max-width: 100%; height: auto;">
+<img src="https://i.imgur.com/HoqRknK.gif" style="width: 100%; max-width: 100%; height: auto;">
 </a>
 <a href="Your link here"><img src="Your image here.gif">
-<img src="https://imgur.com/a/PgHuyQY" style="width: 100%; max-width: 100%; height: auto;">
+<img src="https://imgur.com/kIZ2ggF" style="width: 100%; max-width: 100%; height: auto;">
 </a>
 
 
