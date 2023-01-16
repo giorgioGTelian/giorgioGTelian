@@ -49,6 +49,10 @@
 
 
 <details><summary>:zap: Recent Activity</summary>
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 <p>
 
 <!--START_SECTION:activity-->
