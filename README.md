@@ -5,16 +5,16 @@
 ## 🔭 I'm currently working on
 
 - 👋 My old projects
-- 👀 Java - Python
+- 👀 Java - Python 
 - 💻 Data Managing with Pandas
-- 📸 My CSS/HTML/JS skill
+- 📸 My CSS/HTML/JavaScript skills
 
 ## 🌱 I'm currently learning
 
 - 📱 React Native
-- Python Django
+- ☁️ Vue.js
 - 🎨 Angular
-- Java Spring   
+- 🎶 Java Spring   
 
 ## 💞️ I am always looking foward to meet new people and learn new skills
  
@@ -34,28 +34,43 @@
   <img align="center" src="https://github-readme-stats2-giorgiogtelian.vercel.app/api?username=giorgioGTelian&show_icons=true&theme=dracula" />
 </a>
 
-
+<br>
 ## 💼 Technical Skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+<br>
 
+## 📚✨ Frameworks, Platforms and Libraries used
+
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+<br>
+
+## 💾 Databases used, Hosting/SaaS
+
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+<!--
 <details><summary>:zap: Recent Activity</summary>
 
 #### Blog posts ✨
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+ BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END 
 
 </details>
-
+-->
 
 <!-- <codersrank-summary username="giorgiogtelian" layout="vertical"></codersrank-summary> -->
 
