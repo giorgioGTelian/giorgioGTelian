@@ -78,6 +78,12 @@ giorgioGTelian/giorgioGTelian is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 ---> 
 
+<div align="center">
+ ### 🌙 💥 Code Pen repository
+  
+  <img alt="Logo" src="https://www.vectorlogo.zone/logos/codepen/codepen-ar21.svg"/>
+</div>
+
 ### 📫✨ Connect with me:
 
 <a href="https://www.linkedin.com/in/giorgio-tassinari-518b28100/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
