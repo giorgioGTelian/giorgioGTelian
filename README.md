@@ -81,7 +81,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
  ### 🌙 💥 Code Pen repository
   
- <a href="https://codepen.io/giorgioGTelian"> <img alt="Logo" src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Fill-White-Large.png"/> </a>
+ <a href="https://codepen.io/giorgioGTelian"> <img src="codepenLogo.png"/> </a>
 </div>
 
 ### 📫✨ Connect with me:
