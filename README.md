@@ -81,7 +81,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
  ### 🌙 💥 Code Pen repository
   
- <a href="https://codepen.io/giorgioGTelian"> <img src="codepenLogo.png"/> </a>
+ <a href="https://codepen.io/giorgioGTelian"> <img src="codepenLogo.png" width="100px"/> </a>
 </div>
 
 ### 📫✨ Connect with me:
