@@ -98,6 +98,9 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.buymeacoffee.com/giorgioproS" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 <br />
 
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=giorgiogtelian&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
 
 
 <br>
