@@ -92,8 +92,9 @@ You can click the Preview link to take a look at your changes.
 </br>
 - 💬 If you have any question/feedback, please write to me: giorgio.programmer@gmail.com <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="18px"> 
 
-### Support my Work
-
+<div align="center">
+### ✨✨ Support my Work ✨✨
+</div>
 
 <br>
 <p  align="center">
