@@ -92,12 +92,12 @@ You can click the Preview link to take a look at your changes.
 </br>
 - 💬 If you have any question/feedback, please write to me: giorgio.programmer@gmail.com <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="18px"> 
 
-<div align="center">
- <h3> ✨✨ Support my Work ✨✨</h3>
-</div>
+<p  align="center">
+ <h3> ✨✨ Support my Work ✨✨ </h3>
+
 
 <br>
-<p  align="center">
+
 <a href="https://www.buymeacoffee.com/giorgioproS" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </p>
 <br>
