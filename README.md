@@ -87,15 +87,7 @@ You can click the Preview link to take a look at your changes.
  <a href="https://codepen.io/giorgioGTelian"> <img src="codepenLogo.png" width="100px"/> </a>
 </div>
 
-### 📫✨ Connect with me:
 
-<a href="https://www.linkedin.com/in/giorgio-tassinari-518b28100/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/gio.tassen/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="http://programmer.altervista.org/Web_Developer.html"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
-</br>
-- 💬 If you have any question/feedback, please write to me: giorgio.programmer@gmail.com <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="18px"> 
-
-<p  align="center">
  <h3> ✨✨ Support my Work ✨✨ </h3>
 
 
@@ -109,15 +101,13 @@ You can click the Preview link to take a look at your changes.
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Rasperry-Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
-## 👑 My global Ranking 👑
+### 📫✨ Connect with me:
 
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=giorgiogtelian&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
+<a href="https://www.linkedin.com/in/giorgio-tassinari-518b28100/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://www.instagram.com/gio.tassen/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="http://programmer.altervista.org/Web_Developer.html"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+</br>
+- 💬 If you have any question/feedback, please write to me: giorgio.programmer@gmail.com <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="18px"> 
 
-
-<br>
 <p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=giorgioGTelian.giorgioGTelian" alt="visitor badge"/>
-</p>
 
