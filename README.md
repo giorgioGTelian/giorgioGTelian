@@ -11,10 +11,10 @@
 
 ## 🌱 I'm currently learning
 
-- 📱 React Native
+- 📱 Hilla - React - LitJS ViteJs
 - ☁️ Vue.js
 - 🎨 Angular
-- 🎶 Java Spring   
+- 🎶 Java Spring and Vaadin 
 
 ## 💞️ I am always looking foward to meet new people and learn new skills
  
