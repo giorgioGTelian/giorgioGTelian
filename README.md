@@ -8,6 +8,7 @@
 - 👀 Java - Python 
 - 💻 Data Managing with Pandas
 - 📸 My CSS/HTML/JavaScript skills
+- [![My new programming language](https://github-readme-stats.vercel.app/api/pin/?username=giorgioGTelian&repo=Luna-programming-language)](https://github.com/giorgioGTelian/Luna-programming-language)
 
 ## 🌱 I'm currently learning
 
