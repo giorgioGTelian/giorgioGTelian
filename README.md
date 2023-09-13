@@ -8,7 +8,7 @@
 - 👀 Java - Python 
 - 📸 My CSS/HTML/JavaScript skills
 - ### 💻 my new programming language Luna ☪☾✩☽🌙🌕
-- [![My new programming language](https://github-readme-stats.vercel.app/api/pin/?username=giorgioGTelian&repo=Luna-programming-language&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/giorgioGTelian/Luna-programming-language)
+- [![My new programming language](https://github-readme-stats.vercel.app/api/pin/?username=giorgioGTelian&repo=Luna&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/giorgioGTelian/Luna)
 
 ## 🌱 I'm currently learning
 
