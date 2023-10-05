@@ -4,18 +4,16 @@
 
 ## 🔭 I'm currently working on
 
-- 👋 My old projects
-- 👀 Java - Python 
-- 📸 My CSS/HTML/JavaScript skills
+- <img alt="GIF" src="powerup.gif" width="20px"/> My old projects
+- <img alt="GIF" src="gandalf_parrot.gif" width="20px"/> Java - Python 
+- <img alt="GIF" src="SpaceFinal.gif" width="20px"/> My CSS/HTML/JavaScript skills 
 - ### 💻 my new programming language Luna ☪☾✩☽🌙🌕
 - [![My new programming language](https://github-readme-stats.vercel.app/api/pin/?username=giorgioGTelian&repo=Luna&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/giorgioGTelian/Luna)
 
 ## 🌱 I'm currently learning
 
-- 📱 Hilla - React - LitJS ViteJs
-- ☁️ Vue.js
-- 🎨 Angular
-- 🎶 Java Spring and Vaadin 
+- <img alt="GIF" src="Rocket.gif" width="20px"/> ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+- <img alt="GIF" src="Developer.gif" width="20px"/> ![Elm](https://img.shields.io/badge/Elm-60B5CC?style=for-the-badge&logo=elm&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## 💞️ I am always looking foward to meet new people and learn new skills
  
