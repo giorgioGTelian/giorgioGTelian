@@ -4,7 +4,7 @@
 
 ## 🔭 I'm currently working on
 
- <img alt="GIF" src="powerup.gif" width="20px"/> My CSS/HTML/JavaScript skills 
+ <img alt="GIF" src="powerup.gif" width="20px"/> My CSS/HTML/JavaScript skills <br>
  <img alt="GIF" src="gandalf_parrot.gif" width="20px"/> Java - Python - C++
 
  ### 💻 my new programming language Luna ☪☾✩☽🌙🌕
