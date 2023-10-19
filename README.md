@@ -110,8 +110,5 @@ You can click the Preview link to take a look at your changes.
 </br>
 - 💬 If you have any question/feedback, please write to me: giorgio.programmer@gmail.com <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="18px"> 
 
-<p  align="center">
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=giorgioGTelian&label=Profile%20Views&color=0&icon=1&pretty=false" />
-</a>
+
