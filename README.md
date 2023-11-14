@@ -30,7 +30,9 @@
 <a href="https://github.com/giorgioGTelian/github-readme-stats">
   <img align="center" src="https://github-readme-stats2-giorgiogtelian.vercel.app/api?username=giorgioGTelian&show_icons=true&theme=dracula" />
 </a>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=giorgioGTelian&theme=dark)](https://git.io/streak-stats)]
+<a href="https://github.com/giorgioGTelian/github-readme-stats">
+  <img align="center" src="https://streak-stats.demolab.com/?user=giorgioGTelian&theme=dark" />
+</a>
 
 <br>
 
