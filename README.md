@@ -67,20 +67,13 @@ You can click the Preview link to take a look at your changes.
 ---> 
 
 <div align="center">
- <h3> 🌙 💥 Code Pen repository </h3>
-  
+ <h3> 🌙 💥 Code Pen repository </h3> 
  <a href="https://codepen.io/giorgioGTelian"> <img src="codepenLogo.png" width="100px"/> </a>
-</div>
-
-
- <h3> ✨✨ Support my Work ✨✨ </h3>
-
-
-<br>
-
+ <br>
+<h3> ✨✨ Support my Work ✨✨ </h3>
 <a href="https://www.buymeacoffee.com/giorgioproS" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </p>
-<br>
+</div>
 
 ## 💡 Passionate about
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
