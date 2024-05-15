@@ -18,22 +18,7 @@
 ## 📚 Favourite IDE: 
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## 📈 GitHub Stats 
-
-<a href="https://github.com/giorgioGTelian/github-readme-stats">
-  <img align="center" src="https://github-readme-stats2-giorgiogtelian.vercel.app/api/top-langs/?username=giorgioGTelian&langs_count=6&theme=dracula" />
-</a>
-<a href="https://github.com/giorgioGTelian/github-readme-stats">
-  <img align="center" src="https://github-readme-stats2-giorgiogtelian.vercel.app/api?username=giorgioGTelian&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/giorgioGTelian/github-readme-stats">
-  <img align="center" src="https://streak-stats.demolab.com/?user=giorgioGTelian&theme=dark" />
-</a>
-
-<br>
 
 ## 💼 Technical Skills
 
@@ -55,9 +40,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-
-
-<br>
 
 ## 💾 Databases used, Hosting/SaaS, Servers
 
@@ -111,7 +93,16 @@ You can click the Preview link to take a look at your changes.
 <a href="https://portfolio-website-eight-lake.vercel.app/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Medium" width="21px"/></a>
 <a href="https://stackoverflow.com/users/3370777/james"><img src="https://stackoverflow.com/users/flair/3370777.png?theme=dark" width="208" height="58" alt="profile for James at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for James at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </br>
-- 💬 If you have any question/feedback, please write to me: giorgio.programmer@gmail.com <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="18px"> 
+- 💬 If you have any question/feedback, please write to me: giorgio.programmer@gmail.com <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="18px">
+</br>
+## 📈 GitHub Stats 
+
+<a href="https://github.com/giorgioGTelian/github-readme-stats">
+  <img align="center" src="https://github-readme-stats2-giorgiogtelian.vercel.app/api/top-langs/?username=giorgioGTelian&langs_count=6&theme=dracula" />
+</a>
+<a href="https://github.com/giorgioGTelian/github-readme-stats">
+  <img align="center" src="https://github-readme-stats2-giorgiogtelian.vercel.app/api?username=giorgioGTelian&show_icons=true&theme=dracula" />
+</a>
 
 
 
