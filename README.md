@@ -3,20 +3,18 @@
   
  </p>
 
-## 🔭 I'm currently working on
+## 🔭 Always working on:
 
  <img alt="GIF" src="powerup.gif" width="20px"/> My CSS/HTML/JavaScript skills <br>
- <img alt="GIF" src="gandalf_parrot.gif" width="20px"/> Java - Python - C++
+ <img alt="GIF" src="gandalf_parrot.gif" width="20px"/> Java - C++
 
  ### 💻 my new programming language Luna ☪☾✩☽🌙🌕
  [![My new programming language](https://github-readme-stats.vercel.app/api/pin/?username=giorgioGTelian&repo=Luna&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/giorgioGTelian/Luna)
 
 ## 🌱 I'm currently learning
 
- <img alt="GIF" src="Rocket.gif" width="20px"/> ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Elm](https://img.shields.io/badge/Elm-60B5CC?style=for-the-badge&logo=elm&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+ <img alt="GIF" src="Rocket.gif" width="20px"/> ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-## 💞️ I am always looking foward to meet new people and learn new skills
- 
 ## 📚 Favourite IDE: 
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
