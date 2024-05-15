@@ -95,7 +95,7 @@ You can click the Preview link to take a look at your changes.
 </br>
 - 💬 If you have any question/feedback, please write to me: giorgio.programmer@gmail.com <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="18px">
 </br>
-## 📈 GitHub Stats 
+
 
 <a href="https://github.com/giorgioGTelian/github-readme-stats">
   <img align="center" src="https://github-readme-stats2-giorgiogtelian.vercel.app/api/top-langs/?username=giorgioGTelian&langs_count=6&theme=dracula" />
