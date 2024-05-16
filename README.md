@@ -82,8 +82,6 @@ You can click the Preview link to take a look at your changes.
 ### 📫✨ Connect with me:
 
 <a href="https://www.linkedin.com/in/giorgio-tassinari-518b28100/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/gio.tassen/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Instagram" width="21px"/></a>
-<a href="https://portfolio-website-eight-lake.vercel.app/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Medium" width="21px"/></a>
 <a href="https://stackoverflow.com/users/3370777/james"><img src="https://stackoverflow.com/users/flair/3370777.png?theme=dark" width="208" height="58" alt="profile for James at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for James at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </br>
 - 💬 If you have any question/feedback, please write to me: giorgio.programmer@gmail.com <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="18px">
