@@ -89,10 +89,10 @@ You can click the Preview link to take a look at your changes.
 
 
 <a href="https://github.com/giorgioGTelian/github-readme-stats">
-  <img align="center" src="https://github-readme-stats2-giorgiogtelian.vercel.app/api/top-langs/?username=giorgioGTelian&langs_count=6&theme=onedark" />
+  <img align="center" src="https://github-readme-stats2-giorgiogtelian.vercel.app/api/top-langs/?username=giorgioGTelian&langs_count=6&theme=dark" />
 </a>
 <a href="https://github.com/giorgioGTelian/github-readme-stats">
-  <img align="center" src="https://github-readme-stats2-giorgiogtelian.vercel.app/api?username=giorgioGTelian&show_icons=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats2-giorgiogtelian.vercel.app/api?username=giorgioGTelian&show_icons=true&theme=dark" />
 </a>
 
 
