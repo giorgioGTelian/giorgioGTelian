@@ -89,12 +89,12 @@ You can click the Preview link to take a look at your changes.
 
 
 <a href="https://github.com/giorgioGTelian/github-readme-stats">
-  <img align="center" src="https://github-readme-stats2-giorgiogtelian.vercel.app/api/top-langs/?username=giorgioGTelian&langs_count=6&theme=dracula" />
+  <img align="center" src="https://github-readme-stats2-giorgiogtelian.vercel.app/api/top-langs/?username=giorgioGTelian&langs_count=6&theme=onedark" />
 </a>
 <a href="https://github.com/giorgioGTelian/github-readme-stats">
   <img align="center" src="https://github-readme-stats2-giorgiogtelian.vercel.app/api?username=giorgioGTelian&show_icons=true&theme=onedark" />
 </a>
-[![trophy](https://github-profile-trophy.vercel.app/?giorgiogtelian=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=giorgiogtelian&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
