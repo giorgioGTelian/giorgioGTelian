@@ -93,8 +93,8 @@ You can click the Preview link to take a look at your changes.
 </a>
 <a href="https://github.com/giorgioGTelian/github-readme-stats">
   <img align="center" src="https://github-readme-stats2-giorgiogtelian.vercel.app/api?username=giorgioGTelian&show_icons=true&theme=onedark" />
-  [![trophy](https://github-profile-trophy.vercel.app/?giorgiogtelian=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </a>
+[![trophy](https://github-profile-trophy.vercel.app/?giorgiogtelian=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
