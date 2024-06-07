@@ -2,12 +2,7 @@
 <img align="center" alt="GIF" src="SpaceFinal.gif"/>
   
  </p>
-
-## 🔭 Always working on:
-
- <img alt="GIF" src="powerup.gif" width="20px"/> My CSS/HTML/JavaScript skills <br>
- <img alt="GIF" src="gandalf_parrot.gif" width="20px"/> Java - C++
-
+ 
  ### 💻 my new programming language Luna ☪☾✩☽🌙🌕
  [![My new programming language](https://github-readme-stats.vercel.app/api/pin/?username=giorgioGTelian&repo=Luna&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/giorgioGTelian/Luna)
 
@@ -64,6 +59,11 @@
 <!---
 giorgioGTelian/giorgioGTelian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+## 🔭 Always working on:
+
+ <img alt="GIF" src="powerup.gif" width="20px"/> My CSS/HTML/JavaScript skills <br>
+ <img alt="GIF" src="gandalf_parrot.gif" width="20px"/> Java - C++
 ---> 
 
 <div align="center">
