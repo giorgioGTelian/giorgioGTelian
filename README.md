@@ -1,10 +1,11 @@
-<p align="center">
+<div align="center">
 <img align="center" alt="GIF" src="SpaceFinal.gif"/>
   
- </p>
- 
- ### 💻 my new programming language Luna ☪☾✩☽🌙🌕
+ ### 💻 The projects i'm working on ☪☾✩☽🌙🌕
  [![My new programming language](https://github-readme-stats.vercel.app/api/pin/?username=giorgioGTelian&repo=Luna&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/giorgioGTelian/Luna)
+ [![My school administrator application](https://github-readme-stats.vercel.app/api/pin/?username=giorgioGTelian&repo=Mern_dashboard&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/giorgioGTelian/Mern_dashboard)
+ 
+</div>
 
 ##  <img alt="GIF" src="Rocket.gif" width="20px"/> I'm currently learning
 
