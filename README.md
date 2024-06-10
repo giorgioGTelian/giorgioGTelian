@@ -89,7 +89,7 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://stackoverflow.com/users/3370777/james"><img src="https://stackoverflow.com/users/flair/3370777.png?theme=dark" width="208" height="58" alt="profile for James at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for James at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </br>
-- 💬 If you have any question/feedback, please write to me: giorgio.programmer@gmail.com <img alt="GIF" src="powerup.gif" width="20px">
+<img alt="GIF" src="powerup.gif" width="20px"> If you have any question/feedback, please write to me: giorgio.programmer@gmail.com <img alt="GIF" src="powerup.gif" width="20px">
 </br>
 
 
