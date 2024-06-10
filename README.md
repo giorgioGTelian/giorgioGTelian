@@ -71,11 +71,11 @@ You can click the Preview link to take a look at your changes.
  <img alt="GIF" src="gandalf_parrot.gif" width="20px"/> Java - C++
 ---> 
 
-<div align="center">
- <h3> 🌙 💥 Code Pen repository </h3> 
+
+## 🌙 💥 FrontEnd projects 
  <a href="https://codepen.io/giorgioGTelian"> <img src="codepenLogo.png" width="100px"/> </a>
- <br>
-<h3> ✨✨ Support my Work ✨✨ </h3>
+
+<h2> ✨✨ Support my Work ✨✨ </h2>
 <a href="https://www.buymeacoffee.com/giorgioproS" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </p>
 </div>
@@ -84,7 +84,7 @@ You can click the Preview link to take a look at your changes.
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Rasperry-Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
-### 📫✨ Connect with me:
+## 📫✨ Connect with me:
 <img alt="GIF" src="powerup.gif" width="20px"> If you have any question/feedback, please write to me: giorgio.programmer@gmail.com <img alt="GIF" src="powerup.gif" width="20px">
 </br>
 
