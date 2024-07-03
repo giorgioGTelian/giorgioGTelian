@@ -1,5 +1,7 @@
 <div align="center">
-<img align="center" alt="GIF" src="SpaceFinal.gif"/>
+<!---<img align="center" alt="GIF" src="SpaceFinal.gif"/>-->
+# 🔭 Giorgio Tassinari
+## web developer
   
  ### 💻 The projects i'm working on ☪☾✩☽🌙🌕
   [![My new programming language](https://github-readme-stats.vercel.app/api/pin/?username=giorgioGTelian&repo=Luna&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/giorgioGTelian/Luna)
