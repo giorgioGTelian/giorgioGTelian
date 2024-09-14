@@ -1,9 +1,9 @@
 <div align="center">
 <!---<img align="center" alt="GIF" src="SpaceFinal.gif"/>-->
-<h1> 🔭 Giorgio Tassinari  💻</h1>
+<h1> 🔭 Giorgio Tassinari 💻</h1>
 <h2> web developer </h2>
   
- ### Projects i'm working on ☪☾✩☽🌙🌕 
+ ### Projects i'm working onç  
   [![My new programming language](https://github-readme-stats.vercel.app/api/pin/?username=giorgioGTelian&repo=Luna&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/giorgioGTelian/Luna)
   [![My mern stack application](https://github-readme-stats.vercel.app/api/pin/?username=giorgioGTelian&repo=Mern_dashboard&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/giorgioGTelian/Mern_dashboard)
  
@@ -13,14 +13,8 @@
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
-## 📚 Favourite IDE: 
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 ## ✨ Technical Skills
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -33,7 +27,6 @@
 ![Vaadin](https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge&logo=Vaadin&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
@@ -46,7 +39,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-
 
 ## ☁ Cloud 🔝
 ![AzureDevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
@@ -73,11 +65,6 @@ You can click the Preview link to take a look at your changes.
  <img alt="GIF" src="powerup.gif" width="20px"/> My CSS/HTML/JavaScript skills <br>
  <img alt="GIF" src="gandalf_parrot.gif" width="20px"/> Java - C++
 ---> 
-
-
-## 🌙 💥 FrontEnd projects 
- <a href="https://codepen.io/giorgioGTelian"> <img src="codepenLogo.png" width="100px"/> </a>
-
 <h2> ✨✨ Support my Work ✨✨ </h2>
 <a href="https://www.buymeacoffee.com/giorgioproS" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </p>
@@ -86,11 +73,6 @@ You can click the Preview link to take a look at your changes.
 ## 💡 Passionate about
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Rasperry-Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-
-## 📫✨ Connect with me:
-<img alt="GIF" src="powerup.gif" width="20px"> If you have any question/feedback, please write to me: giorgio.programmer@gmail.com <img alt="GIF" src="powerup.gif" width="20px">
-</br>
-
 
 <a href="https://github.com/giorgioGTelian/github-readme-stats">
   <img align="center" src="https://github-readme-stats2-giorgiogtelian.vercel.app/api/top-langs/?username=giorgioGTelian&langs_count=6&theme=dark" />
