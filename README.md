@@ -2,8 +2,12 @@
 <!---<img align="center" alt="GIF" src="SpaceFinal.gif"/>-->
 # 🔭 Giorgio Tassinari 💻 
 
+
   <hr>
+  
+
 ##  Fullstack developer - DevOps engineer 
+
 
   
  ### Active Projects
