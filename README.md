@@ -3,8 +3,6 @@
   
 # 🔭 Giorgio Tassinari 💻 
 
-
-  <hr>
   
 
 ##  Fullstack developer - DevOps engineer 
