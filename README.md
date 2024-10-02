@@ -1,8 +1,10 @@
 <div align="center">
 <!---<img align="center" alt="GIF" src="SpaceFinal.gif"/>-->
 # 🔭 Giorgio Tassinari 💻 
+
   <hr>
 ##  Fullstack developer - DevOps engineer 
+
   
  ### Active Projects
   [![My new programming language](https://github-readme-stats.vercel.app/api/pin/?username=giorgioGTelian&repo=Luna&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/giorgioGTelian/Luna)
