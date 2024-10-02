@@ -1,19 +1,20 @@
 <div align="center">
 <!---<img align="center" alt="GIF" src="SpaceFinal.gif"/>-->
-<h1> 🔭 Giorgio Tassinari 💻</h1>
-<h2> web developer </h2>
+<h1> 🔭 Giorgio Tassinari 💻 </h1>
+  <hr>
+<h2> Fullstack developer - DevOps engineer </h2>
   
- ### Projects i'm working on  
+ ### Active Projects
   [![My new programming language](https://github-readme-stats.vercel.app/api/pin/?username=giorgioGTelian&repo=Luna&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/giorgioGTelian/Luna)
   [![My mern stack application](https://github-readme-stats.vercel.app/api/pin/?username=giorgioGTelian&repo=Mern_dashboard&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/giorgioGTelian/Mern_dashboard)
  
 </div>
 
-##  <img alt="GIF" src="Rocket.gif" width="20px"/> I'm currently learning
+##  <img alt="GIF" src="Rocket.gif" width="20px"/> Currently learning
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
-## ✨ Technical Skills
+## ✨ Skills
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -21,7 +22,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## <img alt="GIF" src="gandalf_parrot.gif" width="20px"/> Frameworks, Platforms and Libraries used
+## <img alt="GIF" src="gandalf_parrot.gif" width="20px"/> Frameworks, Platforms and Libraries
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Vaadin](https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge&logo=Vaadin&logoColor=white)
@@ -40,7 +41,7 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
-## ☁ Cloud 🔝
+## ☁ Cloud 
 ![AzureDevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
