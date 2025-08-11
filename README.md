@@ -79,13 +79,6 @@ You can click the Preview link to take a look at your changes.
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Rasperry-Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
-<a href="https://github.com/giorgioGTelian/github-readme-stats">
-  <img align="center" src="https://github-readme-stats2-giorgiogtelian.vercel.app/api/top-langs/?username=giorgioGTelian&langs_count=6&theme=dark" />
-</a>
-<a href="https://github.com/giorgioGTelian/github-readme-stats">
-  <img align="center" src="https://github-readme-stats2-giorgiogtelian.vercel.app/api?username=giorgioGTelian&show_icons=true&theme=dark" />
-</a>
-<a href="https://stackoverflow.com/users/3370777/james"><img src="https://stackoverflow.com/users/flair/3370777.png?theme=dark" width="208" height="58" alt="profile for James at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for James at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 
 
